@@ -1,1 +1,2 @@
-Hello, git rebase!
+Hello, world!
+Hello, txt!
